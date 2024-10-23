@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZenithShell
-- 👀 I’m interested in cryptography, user authentication, PGP.
+- 👀 I’m interested in cryptography, user authentication, PGP, Anti-Cheat vectors 
 - 🌱 I’m currently learning decentralized communcaiton. 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: There's a site on the dark web called "The Chess Darknet Club," where chess enthusiasts from around the world can meet anonymously to play games.
